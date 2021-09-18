@@ -1,9 +1,9 @@
 data
 .ipynb_checkpoints
-*.h5
 *.swp
 *.p
 .idea
 __pycache__/
 .ipynb_checkpoints/
 tmp/
+run*/

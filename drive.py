@@ -44,7 +44,8 @@ class SimplePIController:
 
 
 controller = SimplePIController(0.1, 0.002)
-set_speed = 9
+# this set the speed in autonomous mode
+set_speed = 30   # 9
 controller.set_desired(set_speed)
 
 
